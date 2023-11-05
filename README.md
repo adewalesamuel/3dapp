@@ -21,3 +21,7 @@
 - creer .env.development
 - npm run dev
 
+
+## Lien des interface ##
+- User : localhost:3000
+- Admin: localhost:8000/admin
